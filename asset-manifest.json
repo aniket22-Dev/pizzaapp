@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.09c193ed.chunk.css",
-    "main.js": "/static/js/main.2ebc2218.chunk.js",
-    "main.js.map": "/static/js/main.2ebc2218.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.354f5a0b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.354f5a0b.js.map",
-    "static/js/2.b3b26d10.chunk.js": "/static/js/2.b3b26d10.chunk.js",
-    "static/js/2.b3b26d10.chunk.js.map": "/static/js/2.b3b26d10.chunk.js.map",
-    "static/js/3.5c114bc5.chunk.js": "/static/js/3.5c114bc5.chunk.js",
-    "static/js/3.5c114bc5.chunk.js.map": "/static/js/3.5c114bc5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.09c193ed.chunk.css.map": "/static/css/main.09c193ed.chunk.css.map",
-    "static/js/2.b3b26d10.chunk.js.LICENSE.txt": "/static/js/2.b3b26d10.chunk.js.LICENSE.txt"
+    "main.css": "https://aniket22-dev.github.io/pizzaapp/static/css/main.09c193ed.chunk.css",
+    "main.js": "https://aniket22-dev.github.io/pizzaapp/static/js/main.2ebc2218.chunk.js",
+    "main.js.map": "https://aniket22-dev.github.io/pizzaapp/static/js/main.2ebc2218.chunk.js.map",
+    "runtime-main.js": "https://aniket22-dev.github.io/pizzaapp/static/js/runtime-main.997fa21d.js",
+    "runtime-main.js.map": "https://aniket22-dev.github.io/pizzaapp/static/js/runtime-main.997fa21d.js.map",
+    "static/js/2.b3b26d10.chunk.js": "https://aniket22-dev.github.io/pizzaapp/static/js/2.b3b26d10.chunk.js",
+    "static/js/2.b3b26d10.chunk.js.map": "https://aniket22-dev.github.io/pizzaapp/static/js/2.b3b26d10.chunk.js.map",
+    "static/js/3.5c114bc5.chunk.js": "https://aniket22-dev.github.io/pizzaapp/static/js/3.5c114bc5.chunk.js",
+    "static/js/3.5c114bc5.chunk.js.map": "https://aniket22-dev.github.io/pizzaapp/static/js/3.5c114bc5.chunk.js.map",
+    "index.html": "https://aniket22-dev.github.io/pizzaapp/index.html",
+    "static/css/main.09c193ed.chunk.css.map": "https://aniket22-dev.github.io/pizzaapp/static/css/main.09c193ed.chunk.css.map",
+    "static/js/2.b3b26d10.chunk.js.LICENSE.txt": "https://aniket22-dev.github.io/pizzaapp/static/js/2.b3b26d10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.354f5a0b.js",
+    "static/js/runtime-main.997fa21d.js",
     "static/js/2.b3b26d10.chunk.js",
     "static/css/main.09c193ed.chunk.css",
     "static/js/main.2ebc2218.chunk.js"
